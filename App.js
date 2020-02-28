@@ -1,9 +1,7 @@
 import React from 'react';
 import {
   StyleSheet,
-  ScrollView,
   View,
-  Text,
 } from 'react-native';
 
 import Header from './components/Header';
@@ -21,7 +19,7 @@ export default function App(){
 const styles = StyleSheet.create({
   container:
   {
-    
+    flex: 1
   }
 });
 

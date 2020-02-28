@@ -14,7 +14,7 @@ const styles = StyleSheet.create({
     header:
     {
         width: '100%',
-        height: '35%',
+        height: '10%',
         paddingTop: 36,
         backgroundColor: Colors.primary,
         alignItems: 'center',
@@ -22,6 +22,7 @@ const styles = StyleSheet.create({
     },
     headerTitle:
     {
+        marginBottom: '5%',
         color: 'black',
         fontSize: 18
     }
